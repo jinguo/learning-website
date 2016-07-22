@@ -35,14 +35,6 @@
 
 3.Hanks http://hanks.xyz/
 
-非技术博客
-
-1.MacTalk http://macshuo.com/
-
-2.阮一峰 http://www.ruanyifeng.com/home.html
-
-3.李笑来 https://www.gitbook.com/@xiaolai
-
 设计
 
 1.生成shape http://angrytools.com/android/button/
@@ -60,9 +52,3 @@
 7.花瓣 http://huaban.com/
 
 8.最美应用 http://zuimeia.com/?platform=1
-
-应用分发
-
-1.pre http://pre.im/
-
-2.fir http://fir.im/
