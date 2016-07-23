@@ -35,6 +35,10 @@
 
 3.Hanks http://hanks.xyz/
 
+面试
+
+Android完整面试知识 https://github.com/GeniusVJR/LearningNotes
+
 设计
 
 1.生成shape http://angrytools.com/android/button/
