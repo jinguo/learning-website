@@ -55,6 +55,8 @@ Android面试题库与解答 https://github.com/JackyAndroid/AndroidInterview-Q-
 
 6.设计灵感pinterest https://www.pinterest.com
 
-7.花瓣 http://huaban.com/
+7.UI设计 http://www.uiparade.com/
 
-8.最美应用 http://zuimeia.com/?platform=1
+8.花瓣 http://huaban.com/
+
+9.最美应用 http://zuimeia.com/?platform=1
