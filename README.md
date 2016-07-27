@@ -38,6 +38,7 @@
 面试
 
 Android完整面试知识 https://github.com/GeniusVJR/LearningNotes
+面试题库与解答 https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
 
 设计
 
