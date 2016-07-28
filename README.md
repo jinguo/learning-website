@@ -37,6 +37,8 @@
 
 面试
 
+Android架构合集 https://github.com/Juude/Awesome-Android-Architecture
+
 Android完整面试知识 https://github.com/GeniusVJR/LearningNotes
 
 Android面试题库与解答 https://github.com/JackyAndroid/AndroidInterview-Q-A/blob/master/README-CN.md
