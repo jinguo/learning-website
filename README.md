@@ -51,14 +51,16 @@ Android面试题库与解答 https://github.com/JackyAndroid/AndroidInterview-Q-
 
 3.Material Design配色工具 http://www.materialpalette.com
 
-4.图标素材 https://www.iconfinder.com
+4.Material Design设计 http://www.materialup.com
 
-5.设计师作品交流平台dribbble https://dribbble.com
+5.图标素材 https://www.iconfinder.com
 
-6.设计灵感pinterest https://www.pinterest.com
+6.设计师作品交流平台dribbble https://dribbble.com
 
-7.UI设计 http://www.uiparade.com/
+7.设计灵感pinterest https://www.pinterest.com
 
-8.花瓣 http://huaban.com/
+8.UI设计 http://www.uiparade.com/
 
-9.最美应用 http://zuimeia.com/?platform=1
+9.花瓣 http://huaban.com/
+
+10.最美应用 http://zuimeia.com/?platform=1
