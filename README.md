@@ -35,6 +35,23 @@
 
 3.Hanks http://hanks.xyz/
 
+学习网站
+
+Rxjava中文文档,地址: mcxiaoke/RxDocs
+
+安卓面试整理资料,地址: GeniusVJR/LearningNotes
+
+Gityuan大神博客,地址: gityuan/Blog
+
+安卓笔记,地址: GcsSloop/AndroidNote
+
+自定义控件笔记,地址: Idtk/Blog
+
+安卓开发艺术探索读书笔记,地址: 简书
+
+EffectiveJava读书笔记,地址: CSDN
+
+
 面试
 
 Android架构合集 https://github.com/Juude/Awesome-Android-Architecture
