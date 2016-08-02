@@ -33,23 +33,21 @@
 
 4.邓平凡 http://blog.csdn.net/innost?viewmode=list
 
-3.Hanks http://hanks.xyz/
+5.Hanks http://hanks.xyz/
+
+6.Gityuan  http://gityuan.com/
 
 学习网站
 
-Rxjava中文文档,地址: mcxiaoke/RxDocs
+Rxjava中文文档  https://github.com/mcxiaoke/RxDocs
 
-安卓面试整理资料,地址: GeniusVJR/LearningNotes
+安卓笔记  https://github.com/GcsSloop/AndroidNote
 
-Gityuan大神博客,地址: gityuan/Blog
+自定义控件笔记  https://github.com/Idtk/Blog
 
-安卓笔记,地址: GcsSloop/AndroidNote
+安卓开发艺术探索读书笔记  http://www.jianshu.com/p/eb3247fac29a
 
-自定义控件笔记,地址: Idtk/Blog
-
-安卓开发艺术探索读书笔记,地址: 简书
-
-EffectiveJava读书笔记,地址: CSDN
+EffectiveJava读书笔记  http://blog.csdn.net/chjttony/article/category/1311991
 
 
 面试
