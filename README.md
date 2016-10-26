@@ -39,6 +39,8 @@
 
 学习网站
 
+ES6学习  http://es6.ruanyifeng.com/
+
 Rxjava中文文档  https://github.com/mcxiaoke/RxDocs
 
 安卓笔记  https://github.com/GcsSloop/AndroidNote
