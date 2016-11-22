@@ -51,8 +51,9 @@ Rxjava中文文档  https://github.com/mcxiaoke/RxDocs
 
 EffectiveJava读书笔记  http://blog.csdn.net/chjttony/article/category/1311991
 
+面试&简历
 
-面试
+求职简历汇总 https://mdluo.github.io/blog/about-resume/
 
 Android架构合集 https://github.com/Juude/Awesome-Android-Architecture
 
